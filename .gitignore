@@ -1,0 +1,7 @@
+*.cmo
+*.cmi
+*.sh
+**/.vscode
+*.out
+**/backup
+**/.DS_Store
